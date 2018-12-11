@@ -1,1 +1,1 @@
-# Program-Konversi-Suhu-dari-Celcius-ke-Fahrenheit-dan-Reamur-Algoritma-1
+# Program Konversi Suhu dari Celcius ke Fahrenheit dan Reamur
